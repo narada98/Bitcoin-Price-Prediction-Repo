@@ -1,0 +1,9 @@
+1) EDA
+2) Build a basic model with single series
+3) Build a basic model with multiple series
+4) build a model with earlier stoping
+5) build a model with and logg the metrics in Tensorboard
+6) build a model with custom loss function
+7) HOP with keras-tuner ( explore 3 approaches)
+8) Explore prophet and build amodel.
+9) Explore neural prophet and build model.
